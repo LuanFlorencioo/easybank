@@ -2,9 +2,9 @@ import Title from "./Title";
 import Text from "./Text";
 import Button from "./Button";
 import Logo from "./Logo";
-import Header from "./Header";
-import Navbar from "./Navbar";
 import ButtonMobile from "./ButtonMobile";
+import Navbar from "./Navbar";
+import Header from "./Header";
 
 export {
   Title,
