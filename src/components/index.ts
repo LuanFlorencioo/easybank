@@ -5,6 +5,10 @@ import Logo from "./Logo";
 import ButtonMobile from "./ButtonMobile";
 import Navbar from "./Navbar";
 import Header from "./Header";
+import Footer from "./Footer";
+import LogoAlt from "./LogoAlt";
+import SocialMidias from "./SocialMidias";
+import PagesList from "./PagesList";
 
 export {
   Title,
@@ -14,4 +18,8 @@ export {
   ButtonMobile,
   Navbar,
   Header,
+  Footer,
+  LogoAlt,
+  SocialMidias,
+  PagesList,
 }
