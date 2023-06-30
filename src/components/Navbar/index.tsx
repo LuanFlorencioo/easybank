@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
-import links from "./links";
 import { useAppContext } from "@/contexts";
+import { links } from "@/data";
 
 const Navbar = () => {
   const { asPath } = useRouter();
