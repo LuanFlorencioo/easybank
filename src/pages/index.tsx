@@ -1,6 +1,9 @@
+import { Intro } from "@/components";
+
 const Home = () => {
   return (
     <>
+      <Intro />
     </>
   )
 }

@@ -9,6 +9,7 @@ import Footer from "./Footer";
 import LogoAlt from "./LogoAlt";
 import SocialMidias from "./SocialMidias";
 import PagesList from "./PagesList";
+import Intro from "./Intro";
 
 export {
   Title,
@@ -22,4 +23,5 @@ export {
   LogoAlt,
   SocialMidias,
   PagesList,
+  Intro,
 }
