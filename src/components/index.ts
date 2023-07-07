@@ -10,6 +10,8 @@ import LogoAlt from "./LogoAlt";
 import SocialMidias from "./SocialMidias";
 import PagesList from "./PagesList";
 import Intro from "./Intro";
+import Overview from "./Overview";
+import Info from "./Info";
 
 export {
   Title,
@@ -24,4 +26,6 @@ export {
   SocialMidias,
   PagesList,
   Intro,
+  Overview,
+  Info,
 }

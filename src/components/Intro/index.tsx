@@ -9,7 +9,7 @@ const Intro = () => {
   const isWide = useMedia({maxWidth: 768});
 
   return (
-    <section className="w-full md:px-5">
+    <section className="w-full mb-[60px] md:px-5">
       <div className="w-full max-w-7xl mx-auto flex flex-col items-center gap-7 md:py-48 md:items-start">
         {
           isWide
