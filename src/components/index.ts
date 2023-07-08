@@ -12,6 +12,8 @@ import PagesList from "./PagesList";
 import Intro from "./Intro";
 import Overview from "./Overview";
 import Info from "./Info";
+import Articles from "./Articles";
+import Article from "./Article";
 
 export {
   Title,
@@ -28,4 +30,6 @@ export {
   Intro,
   Overview,
   Info,
+  Articles,
+  Article,
 }
