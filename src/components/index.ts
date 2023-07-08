@@ -14,6 +14,7 @@ import Overview from "./Overview";
 import Info from "./Info";
 import Articles from "./Articles";
 import Article from "./Article";
+import HeadApp from "./Head";
 
 export {
   Title,
@@ -32,4 +33,5 @@ export {
   Info,
   Articles,
   Article,
+  HeadApp as Head,
 }
