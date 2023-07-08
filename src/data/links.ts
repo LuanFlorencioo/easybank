@@ -4,19 +4,19 @@ const links = [
     text: "Home",
   },
   {
-    href: "about",
+    href: "foo",
     text: "About",
   },
   {
-    href: "contact",
+    href: "foo",
     text: "Contact",
   },
   {
-    href: "blog",
+    href: "foo",
     text: "Blog",
   },
   {
-    href: "careers",
+    href: "foo",
     text: "Careers",
   },
 ]
